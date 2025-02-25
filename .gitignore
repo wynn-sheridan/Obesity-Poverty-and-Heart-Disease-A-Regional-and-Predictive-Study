@@ -1,0 +1,45 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files
+data/
+*.csv
+*.tsv
+*.xlsx
+*.json
+
+# Virtual environments
+.env/
+.venv/
+__pycache__/
+*.py[cod]
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs and cache
+*.log
+*.cache
+
+# Jupyter Notebook outputs (optional)
+*.out
+*.bak
+
+# Secrets and credentials (if any)
+*.env
+secrets.json
+config.yaml
+
+# Generated plots or images (optional, if you want to keep only important visualizations)
+*.png
+*.jpg
+*.svg
+
+# Model artifacts (if saved)
+*.pkl
+*.h5
+*.joblib
+
+# VS Code settings (if using)
+.vscode/
